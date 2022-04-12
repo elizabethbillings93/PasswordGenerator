@@ -15,26 +15,29 @@ body h2{
     border-color: lightgray;
     margin-right:200px;
 }
-body h3 {
-    text-align: center;
-    color:lightgrey;
+#yoursecurepw {
+    text-align:center;
+    color:grey;
     font-size: 20px;
     padding-bottom: 100px;
     border:dashed 4px;
     margin-right: 200px;
-    margin-left: 200px;
+    margin-left: 250px;
     border-radius: 10px;
     padding-top: 30px;
+    padding-right: 400px;
+    margin-bottom: 20px;
     background-color: white;
 }
 #GenPassword {
     color:white;
     background-color: darkred;
-    margin-left:430px;
+    margin-left:40%;
     height: 50px;
     width: 300px;
     font-size: 20px;
     border-radius: 20px;  
+    
 }
 
 #outer-box-frame {
